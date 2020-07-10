@@ -1,1 +1,1 @@
-# testWebPage.cn
+# WeChatの会社紹介ページ
